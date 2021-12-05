@@ -1,0 +1,11 @@
+Computer Name: 192.168.0.17
+Date & time: 11/14/2021 13:32:41
+
+Name                           Value                                                                                                 
+----                           -----                                                                                                 
+Computername                   {192.168.0.17}                                                                                        
+ResolvedAddresses              {2606:4700:4700::1001, 2606:4700:4700::1111, 1.1.1.1, 1.0.0.1}                                        
+PingSuccess                    True                                                                                                  
+NameResolve                    True                                                                                                  
+
+
